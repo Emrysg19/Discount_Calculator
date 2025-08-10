@@ -1,6 +1,6 @@
 # Discount_Calculator
-PYTHON WEEK 3 ASSIGNMENT
-calculator takes two parameters(price, discount_percent)
-calculates and return discounted price if discount_percent is >= 20%
-returns original price if discount_percent is < 20%
-input parameters is prompted from user.
+PYTHON WEEK 3 ASSIGNMENT.
+Calculator takes two parameters(price, discount_percent).
+Calculates and return discounted price if discount_percent is >= 20%.
+Returns original price if discount_percent is < 20%.
+Input parameters is prompted from user.
